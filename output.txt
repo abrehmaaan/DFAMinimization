@@ -1,0 +1,4 @@
+States/Input Symbols, 0, 1
+iAB, AB, CDE
+F, F, F
+*CDE, CDE, F

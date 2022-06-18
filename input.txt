@@ -1,0 +1,7 @@
+States/Input Symbols, 0, 1
+iA, B, C
+B, A, D
+*C, E, F
+*D, E, F
+*E, E, F
+F, F, F
